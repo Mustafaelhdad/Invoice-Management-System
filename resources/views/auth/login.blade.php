@@ -1,9 +1,8 @@
 @extends('layouts.master2')
 
 @section('title')
-تسجيل الدخول - إدارة
+تسجيل الدخول - يرنامج الفواتير
 @stop
-
 
 @section('css')
 <!-- Sidemenu-respoansive-tabs css -->
